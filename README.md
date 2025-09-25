@@ -1,9 +1,6 @@
 # Learning_Python
 This repository covers core Python concepts and small hands-on projects, ranging from beginner topics to object-oriented programming and working with APIs.
 
-# Learning Python
-
-This repository documents my journey learning Python through a YouTube course.  
 
  📚 Contents
 - notebooks: Jupyter notebooks with code examples and exercises
